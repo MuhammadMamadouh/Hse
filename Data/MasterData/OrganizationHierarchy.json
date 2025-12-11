@@ -1,0 +1,37 @@
+{
+  "Empty": {
+    "LevelID": "",
+    "LevelName": "",
+    "Position": "",
+    "ReportsTo": "",
+    "Description": ""
+  },
+  "Right": {
+    "LevelID": "L1",
+    "LevelName": "LevelName",
+    "Position": "tester",
+    "ReportsTo": "developer",
+    "Description": "Description"
+  },
+  "Wrong": {
+    "LevelID": "L2",
+    "LevelName": "LevelName",
+    "Position": "tester",
+    "ReportsTo": "tester",
+    "Description": "Description"
+  },
+  "Show": {
+    "LevelID": "L1",
+    "LevelName": "Top managment",
+    "Position": "HSE Manager",
+    "ReportsTo": "HSE Director",
+    "Description": "Bla bla bla"
+  },
+  "ShowInTable": ["Top Management", "L1", "HSE Manager", "HSE Director", "1"],
+  "Filter": {
+    "Level": "L1",
+    "PositionName": "HSE Manager",
+    "ReportsTo": "HSE Director",
+    "Status": "Active"
+  }
+}

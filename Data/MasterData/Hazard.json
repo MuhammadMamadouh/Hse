@@ -1,0 +1,33 @@
+{
+  "Right": {
+    "Name": "qqqq",
+    "Category": "tester",
+    "Severity": "High",
+    "Associated_Caution": "ss",
+    "How_to_Detect": "qqq",
+    "Contamination_Procedure": "qqqq"
+  },
+  "Wrong": {
+    "Name": "q",
+    "Category": "tester",
+    "Severity": "High",
+    "Associated_Caution": "ss",
+    "How_to_Detect": "qqq",
+    "Contamination_Procedure": "qqqq"
+  },
+  "ShowInTable": ["Infection Spread", "phyisical", "Critical", "Inactive"],
+  "Show": {
+    "Name": "Infection Spread",
+    "Category": "physical",
+    "Severity": "critical",
+    "Associated_Caution": "use hearing prtection",
+    "How_to_Detect": "Sound level > 85",
+    "Contamination_Procedure": "isolate area"
+  },
+  "FilterData": {
+    "Name": "Infection Spread",
+    "Category": "tester",
+    "Severity": "Critical",
+    "Status": "Inactive"
+  }
+}

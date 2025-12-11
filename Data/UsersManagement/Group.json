@@ -1,0 +1,16 @@
+{
+  "Create": {
+    "Right": {
+      "GroupName": "Create Group",
+      "ExternalEmail": "email@email.com",
+      "Users": "Joy Roberts",
+      "Description": "Description"
+    },
+    "Wrong": {
+      "GroupName": "Create Group",
+      "ExternalEmail": "Create Group",
+      "Users": "Create Group",
+      "Description": "Create Group"
+    }
+  }
+}

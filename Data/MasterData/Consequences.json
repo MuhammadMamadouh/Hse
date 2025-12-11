@@ -1,0 +1,15 @@
+{
+  "Right": {
+    "ConsequencesName": "Infection Spread",
+    "Description": "Description"
+  },
+  "Wrong": {
+    "ConsequencesName": "q",
+    "Description": "Description"
+  },
+
+  "Edit": {},
+  "Show": {},
+  "ShowInTable": [],
+  "Filter": {}
+}
